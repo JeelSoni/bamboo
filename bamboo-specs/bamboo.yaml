@@ -1,6 +1,6 @@
 version: 2
 plan:
-  project-key: MARS
+  project-key: DEMO
   key: ROCKET
   name: Build the rocket
 stages:
